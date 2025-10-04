@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "gbAyE4SzXjl5JqWWkzw1ntSUWI1qPPfca2jdnr3l3yE=",
+  "Source": "ProductService",
+  "BasePath": "_content/ProductService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hp 840 g5\\source\\ProductService\\OrderService\\OrderService.csproj",
+      "Version": 2,
+      "Source": "OrderService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
